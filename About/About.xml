@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>RimDivers</name>
+    <packageId>ViPok.RimDivers</packageId>
+	<url>https://github.com/ViPok137/RimDivers</url>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modVersion>0</modVersion>
+    <authors>
+        <li>Vi Pok</li>
+    </authors>
+    <description>
+None
+    </description>
+</ModMetaData>
