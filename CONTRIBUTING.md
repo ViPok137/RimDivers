@@ -1,4 +1,4 @@
-# Contributing to Overpowered Toys
+# Contributing to RimDivers
 
 Thank you for your interest in contributing!
 
